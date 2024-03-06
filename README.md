@@ -4,5 +4,5 @@ This application is not meant to be used in any other way and should not be depl
 It is based on the original tutorial from [@tcheng10](https://tichung.com/blog/2021/20200323_flask/).
 
 ## Explanation
-### main
-The main branch contains the original application.
+### yaml
+The yaml branch contains the original application with a valid, working Pergola Manifest in YAML format `pergola.yaml`.
