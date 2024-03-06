@@ -5,4 +5,4 @@ It is based on the original tutorial from [@tcheng10](https://tichung.com/blog/2
 
 ## Explanation
 ### main
-The main branch contains the original application with a valid, working Pergola Manifest in YAML format `pergola.yaml`.
+The main branch contains the original application.
